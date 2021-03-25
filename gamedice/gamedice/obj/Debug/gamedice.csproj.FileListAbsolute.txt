@@ -1,0 +1,18 @@
+D:\VisualStudio2015\VC#\CSharpProjects\gamedice\gamedice\bin\Debug\gamedice.exe.config
+D:\VisualStudio2015\VC#\CSharpProjects\gamedice\gamedice\bin\Debug\gamedice.exe
+D:\VisualStudio2015\VC#\CSharpProjects\gamedice\gamedice\bin\Debug\gamedice.pdb
+D:\VisualStudio2015\VC#\CSharpProjects\gamedice\gamedice\obj\Debug\gamedice.csprojResolveAssemblyReference.cache
+D:\VisualStudio2015\VC#\CSharpProjects\gamedice\gamedice\obj\Debug\gamedice.Form1.resources
+D:\VisualStudio2015\VC#\CSharpProjects\gamedice\gamedice\obj\Debug\gamedice.Properties.Resources.resources
+D:\VisualStudio2015\VC#\CSharpProjects\gamedice\gamedice\obj\Debug\gamedice.csproj.GenerateResource.Cache
+D:\VisualStudio2015\VC#\CSharpProjects\gamedice\gamedice\obj\Debug\gamedice.exe
+D:\VisualStudio2015\VC#\CSharpProjects\gamedice\gamedice\obj\Debug\gamedice.pdb
+C:\Users\Jerry\Documents\Visual Studio 2015\Projects\gamedice\gamedice\bin\Debug\gamedice.exe.config
+C:\Users\Jerry\Documents\Visual Studio 2015\Projects\gamedice\gamedice\obj\Debug\gamedice.exe
+C:\Users\Jerry\Documents\Visual Studio 2015\Projects\gamedice\gamedice\obj\Debug\gamedice.pdb
+C:\Users\Jerry\Documents\Visual Studio 2015\Projects\gamedice\gamedice\bin\Debug\gamedice.exe
+C:\Users\Jerry\Documents\Visual Studio 2015\Projects\gamedice\gamedice\bin\Debug\gamedice.pdb
+C:\Users\Jerry\Documents\Visual Studio 2015\Projects\gamedice\gamedice\obj\Debug\gamedice.csprojResolveAssemblyReference.cache
+C:\Users\Jerry\Documents\Visual Studio 2015\Projects\gamedice\gamedice\obj\Debug\gamedice.Form1.resources
+C:\Users\Jerry\Documents\Visual Studio 2015\Projects\gamedice\gamedice\obj\Debug\gamedice.Properties.Resources.resources
+C:\Users\Jerry\Documents\Visual Studio 2015\Projects\gamedice\gamedice\obj\Debug\gamedice.csproj.GenerateResource.Cache
